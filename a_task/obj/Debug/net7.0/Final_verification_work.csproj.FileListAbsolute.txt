@@ -1,0 +1,15 @@
+D:\Новая папка\Final_verification_work\bin\Debug\net7.0\Final_verification_work.exe
+D:\Новая папка\Final_verification_work\bin\Debug\net7.0\Final_verification_work.deps.json
+D:\Новая папка\Final_verification_work\bin\Debug\net7.0\Final_verification_work.runtimeconfig.json
+D:\Новая папка\Final_verification_work\bin\Debug\net7.0\Final_verification_work.dll
+D:\Новая папка\Final_verification_work\bin\Debug\net7.0\Final_verification_work.pdb
+D:\Новая папка\Final_verification_work\obj\Debug\net7.0\Final_verification_work.csproj.AssemblyReference.cache
+D:\Новая папка\Final_verification_work\obj\Debug\net7.0\Final_verification_work.GeneratedMSBuildEditorConfig.editorconfig
+D:\Новая папка\Final_verification_work\obj\Debug\net7.0\Final_verification_work.AssemblyInfoInputs.cache
+D:\Новая папка\Final_verification_work\obj\Debug\net7.0\Final_verification_work.AssemblyInfo.cs
+D:\Новая папка\Final_verification_work\obj\Debug\net7.0\Final_verification_work.csproj.CoreCompileInputs.cache
+D:\Новая папка\Final_verification_work\obj\Debug\net7.0\Final_verification_work.dll
+D:\Новая папка\Final_verification_work\obj\Debug\net7.0\refint\Final_verification_work.dll
+D:\Новая папка\Final_verification_work\obj\Debug\net7.0\Final_verification_work.pdb
+D:\Новая папка\Final_verification_work\obj\Debug\net7.0\Final_verification_work.genruntimeconfig.cache
+D:\Новая папка\Final_verification_work\obj\Debug\net7.0\ref\Final_verification_work.dll
